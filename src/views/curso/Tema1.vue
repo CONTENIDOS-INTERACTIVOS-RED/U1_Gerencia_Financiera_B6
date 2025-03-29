@@ -159,7 +159,7 @@
               img(src='@/assets/curso/tema1/18.png', alt='', style="width: 100%;")
 
 
-    .bg-full-width.bg-color-5
+    .bg-full-width.bg-color-5.mb-3
       .px-4.px-md-5.pb-md-3    
         h2(data-aos="fade-left") Ejemplo práctico: aplicación de la sostenibilidad y la responsabilidad social
         p.mb-5 Una empresa manufacturera decide expandir su planta de producción aplicando principios de sostenibilidad y responsabilidad social. Para ello, implementa las siguientes estrategias:
@@ -184,7 +184,7 @@
                 h5.mb-2.text-center Relación con la comunidad
                 p.mb-0 Colaboración con proveedores locales y apoyo a proyectos comunitarios para fortalecer la economía local.
 
-    p.mb-4 Al integrar estos principios en su gestión financiera, la empresa mejora su desempeño económico mientras contribuye al desarrollo sostenible y al bienestar social.
+    p.mb-5 Al integrar estos principios en su gestión financiera, la empresa mejora su desempeño económico mientras contribuye al desarrollo sostenible y al bienestar social.
 
     #t_1_3.titulo-segundo(data-aos="flip-up")
       h2 #[span 1.3] Impacto de la gerencia financiera en la toma de decisiones empresariales

@@ -3,8 +3,8 @@
   BannerInterno(:subTitulo="'2. Elaboración y estructura de los estados financieros'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
-    .row.mb-5
-      .col-lg-2.mb-3.mb-lg-0.order-lg-2
+    .row.mb-5.justify-content-center
+      .col-md-8.col-lg-2.mb-3.mb-lg-0.order-lg-2
         figure
           img(src="@/assets/curso/tema2/1.svg", data-aos="zoom-in")
       .col-lg-10.order-lg-1
