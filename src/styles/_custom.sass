@@ -23,7 +23,11 @@
   &-3
     background-color: #E2DACC
   &-4
-    background-color: #EAF8FD
+    background-color: #FFEBD0
+  &-5
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(214,245,251,1) 100%)
+  &-6
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(230,240,205,1) 100%)
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -51,13 +55,13 @@
 
 .bg-fondo
   &-1
-    background-image: url("../assets/bg/bg1.png") !important
+    background-image: url("../assets/bg/bg1.svg") !important
     background-position: top
   &-2
     // background-image: url("../assets/bg/bg2.png") !important
     background-position: bottom
   &-slider
-    background-image: url("../assets/bg/bg-slider.png") !important
+    background-image: url("../assets/bg/bg-slider.svg") !important
     background-position: bottom
 
 // Variables
@@ -73,7 +77,7 @@ $custom-card-img-height: 322px
   box-shadow: $custom-card-shadow
   height: 100%
   background-color: $custom-card-text-bg
-  transition: transform 0.3s ease 
+  transition: transform 0.3s ease
   cursor: pointer
   &:hover
     transform: scale(1.01)
@@ -87,7 +91,7 @@ $custom-card-img-height: 322px
   box-shadow: $custom-card-shadow
   height: 100%
   background-color: $custom-card-text-bg
-  transition: transform 0.3s ease 
+  transition: transform 0.3s ease
   cursor: pointer
   &:hover
     transform: scale(1.01)
@@ -95,18 +99,16 @@ $custom-card-img-height: 322px
     height: 253px
     object-fit: cover
 
-
 .acordion__header
-  background-color: lighten($color-acento-contenido, 25%) !important
+  background-color: lighten($color-secundario, 35%) !important
 
 .acordion__header--active
-  background-color: $color-acento-contenido !important
+  background-color: $color-secundario !important
   h4, i
     color: #000 !important
 
 .acordion__contenido
-  background-color: lighten($color-acento-contenido, 27%) !important
-
+  background-color: lighten($color-secundario, 37%) !important
 
 .anexo__texto
   p, strong
@@ -116,12 +118,11 @@ $custom-card-img-height: 322px
 .bloque-texto-c
   padding: 34px !important
   p
-    font-size: 22px  !important
+    font-size: 22px !important
     line-height: 26.4px !important
     font-weight: 700 !important
   i
     color: $color-primario !important
-
 
 .bg-ppal-claro
   background-color: #F7F4ED
@@ -133,7 +134,6 @@ $custom-card-img-height: 322px
   background-color: #1172B3
 .bg-red-claro
   background-color: #FCDFDB !important
-
 
 .box-shadow
   box-shadow: 0 4px 8px rgba(0,0,0,0.1)
@@ -159,7 +159,6 @@ $custom-card-img-height: 322px
   width: 48px !important
   @media screen and (max-width: $bp-max-sm)
     width: 38px !important
-  
 
 .img-infografica__item__dot:before, .img-infografica-b__item__dot:before
   opacity: 1
@@ -168,7 +167,7 @@ $custom-card-img-height: 322px
 
 .img-infografica__card, .img-infografica-b__card
   width: 350px !important
-  
+
 .img-infografica__item__numero
   font-weight: 900
 
@@ -203,7 +202,7 @@ $custom-card-img-height: 322px
 
 .border-top.color-primario
   border-top: 5px solid $color-primario !important
-  
+
 .material-complementario
   p,a
     font-size: 1rem !important
