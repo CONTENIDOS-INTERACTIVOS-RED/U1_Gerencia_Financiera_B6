@@ -122,7 +122,7 @@
             p Destina recursos a proyectos que generan beneficios financieros y, al mismo tiempo, contribuyen positivamente al entorno social y ambiental. Ejemplo: emisión de bonos verdes para financiar iniciativas ecológicas.
     
           .div(titulo="Gestión de riesgos ambientales y sociales")
-            p Identifica y minimiza obstáculos relacionados con el entorno natural y la sociedad para garantizar la estabilidad financiera a largo plazo. Ejemplo: evaluación de riesgos de escasez de agua en industr.mb-0ias dependientes de este recurso.
+            p Identifica y minimiza obstáculos relacionados con el entorno natural y la sociedad para garantizar la estabilidad financiera a largo plazo. Ejemplo: evaluación de riesgos de escasez de agua en industrias dependientes de este recurso.
 
     h2(data-aos="fade-left") Principios de responsabilidad social en la gestión financiera y su impacto
     p.mb-5 Además de los principios de sostenibilidad, la responsabilidad social en la gestión financiera juega un papel clave en la transparencia corporativa y la ética empresarial. A continuación, se detallan los principales aspectos de la responsabilidad social en este ámbito:
@@ -267,7 +267,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.unilibre.edu.co/bogota/pdfs/2016/presentaciones/7.pdf" target="_blank" rel="noopener noreferrer") Universidad Libre. (2016). Enfoque de la gerencia financiera, desde la teoría general contable.  
+              a(href="https://repository.unilibre.edu.co/bitstream/handle/10901/26184/Arti-%20Brayan%20Alexis%20Galeano.pdf?sequence=1" target="_blank" rel="noopener noreferrer") Galeano, B. B (2023). IMPORTANCIA DE LAS TEORÍAS CONTABLES PARA EL DESARROLLO Y EVOLUCIÓN DE LA CONTABILIDAD. [documento] Unilibre. 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://www.bling.mx/blog/control-financeiro/metodos-de-analisis-financieros/" target="_blank" rel="noopener noreferrer") Bling. (2022). ¿Cuáles son los métodos de análisis financieros? [7 TIPOS].    
