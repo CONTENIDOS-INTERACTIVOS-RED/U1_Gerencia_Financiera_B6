@@ -267,7 +267,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://repository.unilibre.edu.co/bitstream/handle/10901/26184/Arti-%20Brayan%20Alexis%20Galeano.pdf?sequence=1" target="_blank" rel="noopener noreferrer") Galeano, B. B (2023). IMPORTANCIA DE LAS TEORÍAS CONTABLES PARA EL DESARROLLO Y EVOLUCIÓN DE LA CONTABILIDAD. [documento] Unilibre. 
+              a(href="https://teoriaonline.com/teoria-contabilidad/" target="_blank" rel="noopener noreferrer") Teoría Online. (s. f.). Teoría contable: fundamentos, principios y explicaciones.
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://www.bling.mx/blog/control-financeiro/metodos-de-analisis-financieros/" target="_blank" rel="noopener noreferrer") Bling. (2022). ¿Cuáles son los métodos de análisis financieros? [7 TIPOS].    
